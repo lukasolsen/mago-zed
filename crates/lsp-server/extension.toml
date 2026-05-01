@@ -1,0 +1,10 @@
+id = "mago-zed"
+name = "Mago Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Lukas Olsen <lukmarwil@gmail.com>"]
+description = ""
+
+[language_servers.mago]
+name = "Mago"
+languages = ["PHP"]
